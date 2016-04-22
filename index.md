@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 header:
   image: splash_image.jpg
+title: Home
 ---
 
 {% include base_path %}

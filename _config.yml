@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Fei Peng"
-description              : "An amazing website."
+description              : "Fei Peng's personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "Fei Peng"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "China -> Umich -> CMU -> OM -> ?"
   location         : "Pittsburgh, PA"
   email            : "feipeng@umich.edu"
   uri              :

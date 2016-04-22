@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Fei Peng"
 title_separator          : "-"
 name                     : "Fei Peng"
 description              : "Fei Peng's personal website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fei-peng.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -26,6 +26,11 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+
+defaults:
+  values:
+    author_profile: true
+
 
 # SEO Related
 google_site_verification :
@@ -63,10 +68,10 @@ google_ad_slot           :
 author:
   name             : "Fei Peng"
   avatar           : "headshot.jpg"
-  bio              : "China -> Umich -> CMU -> OM -> ?"
+  bio              : "Jinan -> Beijing -> Ann Arbor -> Pittsburgh -> "
   location         : "Pittsburgh, PA"
   email            : "feipeng@umich.edu"
-  uri              :
+  url              : "cv_FeiPeng.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -147,7 +152,7 @@ kramdown:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+#paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

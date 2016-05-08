@@ -13,7 +13,9 @@ Hello and welcome!
 
 I am the Director of Engineering at [Optimized Markets][om], where we provide technology to advertising companies so they can match ads to their users (you and I!) in an optimal way.
 
-Before joining OM full-time, I spent two years as a Research Associate in the [Electronic Marketplaces Laboratory][lab] of the [Computer Science Department][csd] at [Carnegie Mellon University][cmu]. While at CMU, I worked with Dr. [Tuomas Sandholm][sandholm] on an NSF grant to develop technologies behind OM. Tuomas is also the founder and CEO of OM.
+Before joining OM full-time, I spent two years as a Research Associate in the [Electronic Marketplaces Laboratory][lab] of the [Computer Science Department][csd] at [Carnegie Mellon University][cmu]. While at CMU, I worked with Dr. [Tuomas Sandholm][sandholm] on an NSF grant to develop technologies behind OM.
+
+[//]: # (Tuomas is also the founder and CEO of OM.)
 
 I received my Ph.D. and M.S. in Operations Research from the [Industrial and Operations Engineering Department][ioe] at the [University of Michigan][um], where I was advised by Drs. [Edwin Romeijn][romeijn] and [Marina Epelman][epelman].
 

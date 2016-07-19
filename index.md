@@ -17,7 +17,7 @@ Before joining OM full-time, I spent two years as a Research Associate in the [E
 
 [//]: # (Tuomas is also the founder and CEO of OM.)
 
-I received my Ph.D. and M.S. in Operations Research from the [Industrial and Operations Engineering Department][ioe] at the [University of Michigan][um], where I was advised by Drs. [Edwin Romeijn][romeijn] and [Marina Epelman][epelman].
+I received my Ph.D. and M.S. in Operations Research from the [Industrial and Operations Engineering Department][ioe] at the [University of Michigan][um], where I was fortunate enough to be advised by Drs. [Edwin Romeijn][romeijn] and [Marina Epelman][epelman]. I received the IOE Bonder fellowship for applied Operations Research while I was there.
 
 My work falls in the general areas of Optimization and Artificial Intelligence, with applications in healthcare (and more specifically radiation therapy) and advertising. I recently developed lots of interest in Machine Learning. For more detail, please refer to my [publications][pub].
 

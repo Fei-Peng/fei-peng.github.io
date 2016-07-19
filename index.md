@@ -27,8 +27,8 @@ My [Erdős number][erdos] is 4:
 
 1. S. Burr, P. Erdős, R.J. Faudree, C.C. Rousseau, R.H Schelp, R.J. Gould, and M.S. Jacobson. Goodness of trees for generalized books. Graphs and Combinatorics 3(1): 1-6. 1987.
 2. A.L. Blum and R.J. Gould. Generalized degree sums and Hamiltonian graphs. ARS Combinatoria 35(A):35-54. 1993.
-3. Blum, A., Sandholm, T., and Zinkevich, M. 2006. Online Algorithms for Market Clearing. Journal of the ACM, Vol. 53, No. 5, pp. 845-879.
-4. Peng, F. and Sandholm, T. 2016. Scalable Segment Abstraction Method for Advertising Campaign Admission and Inventory Allocation Optimization. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)
+3. A. Blum, T. Sandholm, and M. Zinkevich. 2006. Online Algorithms for Market Clearing. Journal of the ACM, Vol. 53, No. 5, pp. 845-879.
+4. F. Peng, and T. Sandholm. 2016. Scalable Segment Abstraction Method for Advertising Campaign Admission and Inventory Allocation Optimization. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)
 
 [om]: http://www.optimizedmarkets.com/
 [lab]: http://www.cs.cmu.edu/~amem/

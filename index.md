@@ -11,7 +11,7 @@ title: Home
 Hello and welcome!
 =========
 
-I am the Director of Engineering at [Optimized Markets][om], where we provide technology to advertising companies so they can match ads to their users (you and I!) in an optimal way.
+I am the Director of Engineering at [Optimized Markets][om], where we provide artificial intelligence and optimization technologies to advertising companies so they can match ads to their users (you and I!) in an optimal way.
 
 Before joining OM full-time, I spent two years as a Research Associate in the [Electronic Marketplaces Laboratory][lab] of the [Computer Science Department][csd] at [Carnegie Mellon University][cmu]. While at CMU, I worked with Dr. [Tuomas Sandholm][sandholm] on an NSF grant to develop technologies behind OM.
 

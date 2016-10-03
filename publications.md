@@ -8,6 +8,8 @@ title: Publications
 
 Journal Articles / Refereed Conference Proceedings
 -------
++ F. Peng, T. Sandholm. Optimal learning of large Bayesian network structure using integer programming. Working paper
+
 + F. Peng, T. Sandholm. Scalable segment abstraction method for advertising campaign admission and inventory allocation optimization. In *Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI)*, 2016. Acceptance rate: <0.25
 
 + F. Peng, S. Jiang, H. E. Romeijn, and M. Epelman. VMATC: VMAT with Constant Gantry Speed and Dose Rate. *Physics in Medicine and Biology* 60 (2015), 2955-2979

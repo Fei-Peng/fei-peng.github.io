@@ -29,7 +29,7 @@ Book Chapters
 
 Patents
 -------
-+ Automated allocation of media campaign assets to time and program in digital media deliverysystems, T. Sandholm, F. Peng, J. Dickerson, U.S. Patent 9,699,502, July 2017
++ Automated allocation of media campaign assets to time and program in digital media deliverysystems, T. Sandholm, F. Peng, J. Dickerson, *U.S. Patent 9,699,502*, July 2017
 
 
 Other

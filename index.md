@@ -6,7 +6,6 @@ header:
 title: Home
 ---
 
-{% include base_path %}
 
 Hello and welcome!
 =========

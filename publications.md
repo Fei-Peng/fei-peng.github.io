@@ -4,7 +4,6 @@ author_profile: true
 title: Publications
 ---
 
-{% include base_path %}
 
 Journal Articles / Refereed Conference Proceedings
 -------

@@ -11,7 +11,9 @@ title: Home
 Hello and welcome!
 =========
 
-I am the Director of Engineering at [Optimized Markets][om], where we provide artificial intelligence and optimization technologies to advertising companies so they can match ads to their users (you and I!) in an optimal way.
+I recently started working at Facebook Seattle as a software engineer, focusing on machine learning. 
+
+I worked as the Director of Engineering at [Optimized Markets][om] for 3.5 years, where we provided artificial intelligence and optimization technologies to advertising companies so they can match ads to their users (you and I!) in an optimal way.
 
 Before joining OM full-time, I spent two years as a Research Associate in the [Electronic Marketplaces Laboratory][lab] of the [Computer Science Department][csd] at [Carnegie Mellon University][cmu]. While at CMU, I worked with Dr. [Tuomas Sandholm][sandholm] on an NSF grant to develop technologies behind OM.
 
@@ -19,7 +21,7 @@ Before joining OM full-time, I spent two years as a Research Associate in the [E
 
 I received my Ph.D. and M.S. in Operations Research from the [Industrial and Operations Engineering Department][ioe] at the [University of Michigan][um], where I was fortunate enough to be advised by Drs. [Edwin Romeijn][romeijn] and [Marina Epelman][epelman]. I received the IOE Bonder fellowship for applied Operations Research while I was there.
 
-My work falls in the general areas of Optimization and Artificial Intelligence, with applications in advertising and healthcare. I am also very interested in machine learning and its applications. For more detail, please refer to my [publications][pub].
+My work falls in the general areas of Optimization and Artificial Intelligence, with applications in advertising and healthcare. I am recently started working more and more in Machine Learning and its applications. For more detail, please refer to my [publications][pub].
 
 I am generally interested in entrepreneurship and startup ideas both in the US and in China.
 

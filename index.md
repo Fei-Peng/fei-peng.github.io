@@ -10,9 +10,9 @@ title: Home
 Hello and welcome!
 =========
 
-I recently started working at Facebook Seattle as a software engineer, focusing on machine learning. 
+I recently joined Facebook Seattle as a software engineer, focusing on machine learning. 
 
-I worked as the Director of Engineering at [Optimized Markets][om] for 3.5 years, where we provided artificial intelligence and optimization technologies to advertising companies so they can match ads to their users (you and I!) in an optimal way.
+Prior to Facebook, I worked as the Director of Engineering at [Optimized Markets][om] for 3.5 years, where we provided artificial intelligence and optimization technologies to advertising companies so they can match ads to their users (you and I!) in an optimal way.
 
 Before joining OM full-time, I spent two years as a Research Associate in the [Electronic Marketplaces Laboratory][lab] of the [Computer Science Department][csd] at [Carnegie Mellon University][cmu]. While at CMU, I worked with Dr. [Tuomas Sandholm][sandholm] on an NSF grant to develop technologies behind OM.
 
